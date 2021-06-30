@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/single_responsibility/pom.xml" />
         <option value="$PROJECT_DIR$/open_closed/pom.xml" />
         <option value="$PROJECT_DIR$/liskov_substitution/pom.xml" />
+        <option value="$PROJECT_DIR$/interface_segregation/pom.xml" />
       </list>
     </option>
   </component>
