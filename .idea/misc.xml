@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/single_responsibility/pom.xml" />
         <option value="$PROJECT_DIR$/open_closed/pom.xml" />
+        <option value="$PROJECT_DIR$/liskov_substitution/pom.xml" />
       </list>
     </option>
   </component>
