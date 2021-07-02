@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/interface_segregation/pom.xml" />
         <option value="$PROJECT_DIR$/dependency_inversion/pom.xml" />
         <option value="$PROJECT_DIR$/01SimpleFactory/pom.xml" />
+        <option value="$PROJECT_DIR$/02FactoryMethod/pom.xml" />
       </list>
     </option>
   </component>
