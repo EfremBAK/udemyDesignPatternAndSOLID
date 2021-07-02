@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/dependency_inversion/pom.xml" />
         <option value="$PROJECT_DIR$/01SimpleFactory/pom.xml" />
         <option value="$PROJECT_DIR$/02FactoryMethod/pom.xml" />
+        <option value="$PROJECT_DIR$/03AabstractFactory/pom.xml" />
       </list>
     </option>
   </component>
