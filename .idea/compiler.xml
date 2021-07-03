@@ -9,6 +9,7 @@
         <module name="open_closed" />
         <module name="dependency_inversion" />
         <module name="03AabstractFactory" />
+        <module name="04CommandPattern" />
         <module name="02FactoryMethod" />
         <module name="single_responsibility" />
         <module name="liskov_substitution" />
@@ -20,6 +21,7 @@
       <module name="01SimpleFactory" target="8" />
       <module name="02FactoryMethod" target="16" />
       <module name="03AabstractFactory" target="16" />
+      <module name="04CommandPattern" target="16" />
       <module name="dependency_inversion" target="1.8" />
       <module name="interface_segregation" target="1.8" />
       <module name="liskov_substitution" target="1.8" />
