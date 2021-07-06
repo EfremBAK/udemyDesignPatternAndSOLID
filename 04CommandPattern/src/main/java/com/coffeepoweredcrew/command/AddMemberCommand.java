@@ -19,6 +19,5 @@ public class AddMemberCommand implements Command{
 	public void execute() {
 		receiver.addMember(emailAddress, listName);
 	}
-		
 
 }

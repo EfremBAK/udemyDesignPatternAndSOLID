@@ -14,5 +14,4 @@ public class Client {
 		Thread.sleep(3000);
 		MailTasksRunner.getInstance().shutdown();
 	}
-
 }

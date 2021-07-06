@@ -11,6 +11,7 @@
         <module name="03AabstractFactory" />
         <module name="04CommandPattern" />
         <module name="02FactoryMethod" />
+        <module name="05StateDesignPattern" />
         <module name="single_responsibility" />
         <module name="liskov_substitution" />
         <module name="interface_segregation" />
@@ -22,6 +23,7 @@
       <module name="02FactoryMethod" target="16" />
       <module name="03AabstractFactory" target="16" />
       <module name="04CommandPattern" target="16" />
+      <module name="05StateDesignPattern" target="16" />
       <module name="dependency_inversion" target="1.8" />
       <module name="interface_segregation" target="1.8" />
       <module name="liskov_substitution" target="1.8" />
