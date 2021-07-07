@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/01SimpleFactory/01SimpleFactory.iml" filepath="$PROJECT_DIR$/01SimpleFactory/01SimpleFactory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02FactoryMethod/02FactoryMethod.iml" filepath="$PROJECT_DIR$/02FactoryMethod/02FactoryMethod.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03AabstractFactory/03AabstractFactory.iml" filepath="$PROJECT_DIR$/03AabstractFactory/03AabstractFactory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04CommandPattern/04CommandPattern.iml" filepath="$PROJECT_DIR$/04CommandPattern/04CommandPattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/05StateDesignPattern/05StateDesignPattern.iml" filepath="$PROJECT_DIR$/05StateDesignPattern/05StateDesignPattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dependency_inversion/dependency_inversion.iml" filepath="$PROJECT_DIR$/dependency_inversion/dependency_inversion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/interface_segregation/interface_segregation.iml" filepath="$PROJECT_DIR$/interface_segregation/interface_segregation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/liskov_substitution/liskov_substitution.iml" filepath="$PROJECT_DIR$/liskov_substitution/liskov_substitution.iml" />
-      <module fileurl="file://$PROJECT_DIR$/open_closed/open_closed.iml" filepath="$PROJECT_DIR$/open_closed/open_closed.iml" />
-      <module fileurl="file://$PROJECT_DIR$/single_responsibility/single_responsibility.iml" filepath="$PROJECT_DIR$/single_responsibility/single_responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/06ProxyPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/06ProxyPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/udemySOLIDPrinciples.iml" filepath="$PROJECT_DIR$/.idea/udemySOLIDPrinciples.iml" />
     </modules>
   </component>
