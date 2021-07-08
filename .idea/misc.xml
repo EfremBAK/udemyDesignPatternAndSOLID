@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/04CommandPattern/pom.xml" />
         <option value="$PROJECT_DIR$/05StateDesignPattern/pom.xml" />
         <option value="$PROJECT_DIR$/06ProxyDesignPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/07VisitorPattern/pom.xml" />
       </list>
     </option>
   </component>
