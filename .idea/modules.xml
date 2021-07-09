@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/06ProxyPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/06ProxyPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/udemySOLIDPrinciples.iml" filepath="$PROJECT_DIR$/.idea/udemySOLIDPrinciples.iml" />
     </modules>
   </component>

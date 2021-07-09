@@ -6,21 +6,34 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="open_closed" />
-        <module name="dependency_inversion" />
         <module name="03AabstractFactory" />
         <module name="04CommandPattern" />
+        <module name="06ProxyPattern" />
+        <module name="07VisitorPattern" />
+        <module name="interface_segregation" />
+        <module name="open_closed" />
+        <module name="design_principles (1)" />
+        <module name="08CompositePattern" />
+        <module name="dependency_inversion" />
         <module name="02FactoryMethod" />
         <module name="05StateDesignPattern" />
         <module name="single_responsibility" />
         <module name="liskov_substitution" />
-        <module name="07VisitorPattern" />
-        <module name="interface_segregation" />
+        <module name="design_principles (5)" />
         <module name="01SimpleFactory" />
+        <module name="design_principles (4)" />
+        <module name="design_principles (3)" />
+        <module name="design_principles (2)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="06ProxyDesignPattern" target="16" />
+      <module name="09ProxyPattern" target="16" />
+      <module name="dependency_inversion" target="1.8" />
+      <module name="interface_segregation" target="1.8" />
+      <module name="liskov_substitution" target="1.8" />
+      <module name="open_closed" target="1.8" />
+      <module name="single_responsibility" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
