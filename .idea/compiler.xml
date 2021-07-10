@@ -22,6 +22,7 @@
         <module name="design_principles (5)" />
         <module name="01SimpleFactory" />
         <module name="design_principles (4)" />
+        <module name="09IteratorPattern" />
         <module name="design_principles (3)" />
         <module name="design_principles (2)" />
       </profile>
